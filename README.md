@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucasGBurch
 - 👀 I’m interested in ... Learning to code and build new networks
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... Java, JS
+- 💞️ I’m looking to collaborate on ... https://replit.com/@LucasBurch
 - 📫 How to reach me ...
 
 <!---
