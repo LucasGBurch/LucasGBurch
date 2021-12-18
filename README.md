@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Learning to code and build new networks
 - 🌱 I’m currently learning ... mainly Java
 - 💞️ I’m looking to collaborate on ... Java Projects and learn the most possible to fit in the TI area
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://www.linkedin.com/in/lucas-galarraga-burch-32a0a018b/
 
 <!---
 LucasGBurch/LucasGBurch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
