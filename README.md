@@ -20,14 +20,17 @@
   
  </div>
 
-## Contatos:
+## Contatos em ordem de uso:
 
 <div>
 
 
-  <a href="https://www.linkedin.com/in/lucas-galarraga-burch-32a0a018b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lucasgburch" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
   <a href = "mailto:lucasburch@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/lucas-galarraga-burch-32a0a018b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
   <a href="https://www.youtube.com/channel/UC8U3asSPS72AklNOmEhba4w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/LucasGBurch/LucasGBurch/blob/output/github-contribution-grid-snake.svg)
