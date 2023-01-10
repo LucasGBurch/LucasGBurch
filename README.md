@@ -1,6 +1,6 @@
 ## Olá! Eu sou Lucas G. Burch
 
-- 👀 Estou interessado em vagas de trabalho para Desenvolvedor Front-End;
+- 👀 Estou interessado em vagas de trabalho para Desenvolvedor Front-End React;
 - 📖 Estudo HTML5, CSS3, JavaScript (JS), TypeScript(TS) e aplicação dessas linguagens com a biblioteca React;
 - 📫 Contato de trabalho: https://www.linkedin.com/in/lucas-galarraga-burch-32a0a018b/
 
