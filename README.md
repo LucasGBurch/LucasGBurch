@@ -3,7 +3,7 @@
 - 👀 Estou interessado em vagas de trabalho para Desenvolvedor Front-End React;
 - 📖 Estudo HTML5, CSS3, JavaScript (JS), TypeScript(TS) e aplicação dessas linguagens com a biblioteca React;
 - 📫 Contato de trabalho: https://www.linkedin.com/in/lucas-galarraga-burch-32a0a018b/
-<!--
+<!-- Algo bugou nessa biblioteca, VERIFICAR UM DIA
 <div align="center">
   <a href="https://github.com/LucasGBurch" color="lightslateblue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGBurch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
