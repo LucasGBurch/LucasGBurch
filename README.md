@@ -3,12 +3,12 @@
 - 👀 Estou interessado em vagas de trabalho para Desenvolvedor Front-End React | React Native | Node.js;
 - 📖 Estudo React, React Native e Node.js;
 - 📫 Contato de trabalho: https://www.linkedin.com/in/lucasgburch/
-<!-- Algo bugou nessa biblioteca, VERIFICAR UM DIA
+ Algo bugou nessa biblioteca, VERIFICAR UM DIA
 <div align="center">
   <a href="https://github.com/LucasGBurch" color="lightslateblue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGBurch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGBurch&layout=compact&langs_count=7&theme=tokyonight"/>
-</div> -->
+</div>
 
 <div style="display: block"><br>
   
