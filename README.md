@@ -1,7 +1,7 @@
 ## Olá! Eu sou Lucas G. Burch
 
-- 👀 Estou interessado em vagas de trabalho para Desenvolvedor Front-End React;
-- 📖 Estudo HTML5, CSS3, JavaScript (JS), TypeScript (TS) e aplicação dessas linguagens com a biblioteca React e React Native;
+- 👀 Estou interessado em vagas de trabalho para Desenvolvedor Front-End React | React Native | Node.js;
+- 📖 Estudo React, React Native e Node.js;
 - 📫 Contato de trabalho: https://www.linkedin.com/in/lucasgburch/
 <!-- Algo bugou nessa biblioteca, VERIFICAR UM DIA
 <div align="center">
