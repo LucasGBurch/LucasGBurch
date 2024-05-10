@@ -1,8 +1,8 @@
 ## Olá! Eu sou Lucas G. Burch
 
 - 👀 Estou interessado em vagas de trabalho para Desenvolvedor Front-End React | React Native | Node.js;
-- 📖 Estudo React, React Native e Node.js;
-- 📫 Contato de trabalho: https://www.linkedin.com/in/lucasgburch/
+- 📖 Estudo React, Next.js, Python, Flask, Data Science;
+- 📫 Contato de trabalho: https://www.linkedin.com/in/lucasgburchdev
 <div align="center">
   <a href="https://github.com/LucasGBurch" color="lightslateblue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGBurch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
